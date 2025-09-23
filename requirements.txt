@@ -1,0 +1,8 @@
+ultralytics==8.3.81
+torch  # Let pip install the correct version automatically
+opencv-python
+numpy
+matplotlib
+pandas
+pyyaml
+tqdm
